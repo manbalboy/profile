@@ -12,7 +12,7 @@
 - 취미: 자전거, **카페코딩**, 달리기, 영화감상
 - Email: manbalboy@hanmail.net
 - GitHub: [github.com/manbalboy](https://github.com/manbalboy)
-- bloh :https://blog.naver.com/0221jyh (https://blog.naver.com/0221jyh)
+- blog :https://blog.naver.com/0221jyh (https://blog.naver.com/0221jyh)
 ```
 주석으로 코드를 설명하는걸 지양하고, 
 코드와 테스트만으로 'how', 'why'를 표현하는걸 지향하고 있습니다.
