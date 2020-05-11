@@ -60,7 +60,7 @@
 - MariaDB
 
 ### Tool
-- IntelliJe
+- IntelliJ
 - Eclipse
 - WebStorm
 
