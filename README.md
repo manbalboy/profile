@@ -48,6 +48,8 @@
 - javascript ES6+
 - jquery
 - kendoUI
+- Vue.js
+
 
 ### BackEnd
 - JAVA
@@ -81,11 +83,11 @@
 - Node.Js 
 
 앞으로는 아래것들을 익히려고 합니다.
-- Vue.js
+- 네트워크
 - 디자인패턴 
 - JPA
 - ORACLE 아키텍쳐 , 튜닝
-- 
+- 타입스크립트
 
 ## 프로젝트 이력
 
