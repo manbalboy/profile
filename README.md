@@ -100,7 +100,8 @@
 - Doker / 쿠버네티스
 - 마이크로서비스패턴
 - React
-- Node.Js 
+- Node.Js
+-Type Script
 
 앞으로는 아래것들을 익히려고 합니다.
 - 네트워크
