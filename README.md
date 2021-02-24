@@ -3,7 +3,7 @@
 ![프로필이미지](https://github.com/manbalboy/profile/blob/master/images/JUNG2015.jpg)
 - 이름: 정훈
 - 군필여부: 필
-- 미혼
+- 기혼
 - 건장한 남자.
 
 클린코더에 나온 말처럼, **창의적인 출력은 창의적인 입력에서 나온다**고 생각합니다. <br/>
